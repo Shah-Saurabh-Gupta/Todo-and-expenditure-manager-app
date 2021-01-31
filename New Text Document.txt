@@ -1,0 +1,9 @@
+Welcome to the Task-and-expenditure-manger-app wiki!
+It is a Task manager and expenditure manager website which is made in MERN stack. It uses the Context API with react hooks to manage the state. At the same time it stores the state into the local storage so that the data does not get deleted every time the app gets refreshed, since it has not got any backend to store the data in.
+
+Update 1: Uploading only the task manager part of the website which is like a TODO App to keep record of the tasks to perform. It has functionalities as follow:
+
+To add a new task.
+To clear all the existing tasks by deleting them from the local storage.
+To edit a task.
+To delete a task after it is done.
